@@ -5,11 +5,4 @@ host-suffix, apple-relay.fastly-edge.com, US
 host-suffix, cp4.cloudflare.com, US
 host-suffix, apple-relay.apple.com, US
 host-suffix, gspe1-ssl.ls.apple.com, US
-# Unity 相关服务走代理
-DOMAIN-SUFFIX,unity.com,PROXY
-DOMAIN-SUFFIX,unity3d.com,PROXY
-DOMAIN-SUFFIX,cloud.unity.com,PROXY
-DOMAIN-SUFFIX,api.unity.com,PROXY
-DOMAIN-SUFFIX,packages.unity.com,PROXY
-DOMAIN-SUFFIX,download.unity3d.com,PROXY
-DOMAIN-SUFFIX,public-cdn.cloud.unity3d.com,PROXY
+
