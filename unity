@@ -5,3 +5,20 @@ DOMAIN-SUFFIX,api.unity.com,PROXY
 DOMAIN-SUFFIX,packages.unity.com,PROXY
 DOMAIN-SUFFIX,download.unity3d.com,PROXY
 DOMAIN-SUFFIX,public-cdn.cloud.unity3d.com,PROXY
+# Bigo Live 主站与官方活动页面
+DOMAIN-SUFFIX,bigo.tv
+DOMAIN-SUFFIX,bigo.live
+DOMAIN-SUFFIX,bigowork.com
+
+# 核心 API、用户认证与数据接口
+DOMAIN-SUFFIX,bigo.sg
+DOMAIN-SUFFIX,bigofun.com
+DOMAIN-SUFFIX,bigo-api.com
+
+# 静态资源、图片与 CDN 加速
+DOMAIN-SUFFIX,bigocdn.com
+DOMAIN-SUFFIX,bigostatic.com
+
+# 视频流与全球多媒体分发
+DOMAIN-SUFFIX,bigovideo.com
+DOMAIN-SUFFIX,bigovideo.tv
